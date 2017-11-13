@@ -8,6 +8,7 @@ public class MainRTO {
 		System.out.println("Which is a "+b.myMethod());
 		//b.isGear();
 		System.out.println("Your RTO no. is " +b.getRTOno());
+		System.out.println("New code added");
 		
 
 	}
